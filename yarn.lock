@@ -2493,10 +2493,10 @@
     fs-extra "^10.1.0"
     tslib "^2.3.0"
 
-"@nrwl/nx-workshop@0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/nx-workshop/-/nx-workshop-0.4.0.tgz#13529ac7ed853bd1aadee95a95ed13d6c2f98fe5"
-  integrity sha512-0tcq8OXQEhMEA/xwj/VhjfIkfk9f4n3FYl9TvfqF2xbJm4MqXDCorOw+XaPjVlX92hd8uWtfzeeF+L4jp9s4nQ==
+"@nrwl/nx-workshop@0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/nx-workshop/-/nx-workshop-0.4.1.tgz#d8bb4404eafe3a8e1e441790e91a92bb2e71cf12"
+  integrity sha512-Hx12dqpKQWIELHE1vLg6qDL0vLAguMNf8AZ7lzlrK4bIz9pgyfHZKjwQzw0AJmydxyHoUSGfQwsbtqY9o79Sdg==
   dependencies:
     "@nrwl/angular" "15.0.0"
     "@nrwl/devkit" "15.0.0"
