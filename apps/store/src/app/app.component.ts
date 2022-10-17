@@ -13,5 +13,5 @@ export class AppComponent {
   formatRating = formatRating;
   title = 'Board Game Hoard';
   games = this.http.get<Game[]>('/api/games');
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {}
 }
