@@ -1,12 +1,12 @@
 {
   "migrations": [
     {
-      "version": "0.1.20",
-      "description": "Complete Lab 20",
-      "factory": "./src/migrations/complete-lab-20/complete-lab-20",
+      "version": "0.1.21",
+      "description": "Complete Lab 21",
+      "factory": "./src/migrations/complete-lab-21/complete-lab-21",
       "cli": "nx",
       "package": "@nrwl/nx-workshop",
-      "name": "complete-lab-20"
+      "name": "complete-lab-21"
     }
   ]
 }
